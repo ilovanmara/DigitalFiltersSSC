@@ -1,0 +1,38 @@
+Vivado Simulator 2016.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/Vivado/2016.4/bin/unwrapped/win64.o/xelab.exe -wto c304944c43544bf4a2d7bc4d96e6d1c1 --debug typical --relax --mt 2 -L axis_infrastructure_v1_1_0 -L fifo_generator_v13_1_3 -L axis_data_fifo_v1_1_12 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot tb_filtruMedie_behav xil_defaultlib.tb_filtruMedie xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-597] element index -1 into diff_count is out of bounds [/wrk/2016.4/nightly/2017_01_23_1756540/packages/customer/vivado/data/ip/xilinx/fifo_generator_v13_1/simulation/fifo_generator_vlog_beh.v:7829]
+WARNING: [VRFC 10-597] element index -1 into num_read_words_dc is out of bounds [/wrk/2016.4/nightly/2017_01_23_1756540/packages/customer/vivado/data/ip/xilinx/fifo_generator_v13_1/simulation/fifo_generator_vlog_beh.v:8146]
+WARNING: [VRFC 10-597] element index -1 into num_write_words_dc is out of bounds [/wrk/2016.4/nightly/2017_01_23_1756540/packages/customer/vivado/data/ip/xilinx/fifo_generator_v13_1/simulation/fifo_generator_vlog_beh.v:8196]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_textio
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling package ieee.numeric_std
+Compiling package ieee.std_logic_signed
+Compiling package vl.vl_types
+Compiling module xil_defaultlib.glbl
+Compiling module axis_infrastructure_v1_1_0.axis_infrastructure_v1_1_0_util_...
+Compiling module axis_infrastructure_v1_1_0.axis_infrastructure_v1_1_0_util_...
+Compiling module axis_infrastructure_v1_1_0.axis_infrastructure_v1_1_0_util_...
+Compiling module fifo_generator_v13_1_3.fifo_generator_v13_1_3_bhv_ver_s...
+Compiling module fifo_generator_v13_1_3.fifo_generator_v13_1_3_bhv_ver_p...
+Compiling module fifo_generator_v13_1_3.fifo_generator_v13_1_3_CONV_VER(...
+Compiling module fifo_generator_v13_1_3.fifo_generator_vlog_beh(C_COMMON...
+Compiling module fifo_generator_v13_1_3.fifo_generator_v13_1_3(C_COMMON_...
+Compiling module axis_infrastructure_v1_1_0.axis_infrastructure_v1_1_0_util_...
+Compiling module axis_data_fifo_v1_1_12.axis_data_fifo_v1_1_12_axis_data...
+Compiling module xil_defaultlib.fifo
+Compiling architecture behavioral of entity xil_defaultlib.sumatorAxi4 [sumatoraxi4_default]
+Compiling architecture behavioral of entity xil_defaultlib.dividerAxi4 [divideraxi4_default]
+Compiling architecture behavioral of entity xil_defaultlib.FiltruDeMedie [filtrudemedie_default]
+Compiling architecture behavioral of entity xil_defaultlib.tb_filtrumedie
+Built simulation snapshot tb_filtruMedie_behav

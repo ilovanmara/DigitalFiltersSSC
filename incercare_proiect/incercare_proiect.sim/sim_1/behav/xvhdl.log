@@ -1,0 +1,8 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mara_/Desktop/ssc/incercare_proiect/incercare_proiect.srcs/sources_1/new/sumatorAxi4.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity sumatorAxi4
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mara_/Desktop/ssc/incercare_proiect/incercare_proiect.srcs/sources_1/new/dividerAxi4.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity dividerAxi4
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mara_/Desktop/ssc/incercare_proiect/incercare_proiect.srcs/sources_1/new/FiltruDeMedie.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity FiltruDeMedie
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mara_/Desktop/ssc/incercare_proiect/incercare_proiect.srcs/sim_1/new/tb_filtruMedie.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity tb_filtruMedie

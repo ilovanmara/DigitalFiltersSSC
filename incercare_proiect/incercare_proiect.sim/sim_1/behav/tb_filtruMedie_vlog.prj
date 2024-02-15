@@ -1,0 +1,8 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "../../../incercare_proiect.srcs/sources_1/ip/fifo/sim/fifo.v" --include "../../../incercare_proiect.ip_user_files/ipstatic/hdl"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

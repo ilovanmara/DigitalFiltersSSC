@@ -1,0 +1,10 @@
+0.6
+2016.4
+Jan 23 2017
+19:37:30
+C:/Users/mara_/Desktop/ssc/incercare_proiect/incercare_proiect.sim/sim_1/behav/glbl.v,1485222234,verilog,,,,glbl,,,,,,,,
+C:/Users/mara_/Desktop/ssc/incercare_proiect/incercare_proiect.srcs/sim_1/new/tb_filtruMedie.vhd,1705240488,vhdl,,,,tb_filtrumedie,,,,,,,,
+C:/Users/mara_/Desktop/ssc/incercare_proiect/incercare_proiect.srcs/sources_1/ip/fifo/sim/fifo.v,1702727849,verilog,,,,fifo,,,../../../incercare_proiect.ip_user_files/ipstatic/hdl,,,,,
+C:/Users/mara_/Desktop/ssc/incercare_proiect/incercare_proiect.srcs/sources_1/new/FiltruDeMedie.vhd,1705251648,vhdl,,,,filtrudemedie,,,,,,,,
+C:/Users/mara_/Desktop/ssc/incercare_proiect/incercare_proiect.srcs/sources_1/new/dividerAxi4.vhd,1705259732,vhdl,,,,divideraxi4,,,,,,,,
+C:/Users/mara_/Desktop/ssc/incercare_proiect/incercare_proiect.srcs/sources_1/new/sumatorAxi4.vhd,1705259496,vhdl,,,,sumatoraxi4,,,,,,,,

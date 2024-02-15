@@ -1,0 +1,14 @@
+Vivado Simulator 2016.4
+Time resolution is 1 ps
+Note: Values measured successfully read
+Time: 630 ns  Iteration: 0  Process: /tb_filtruMedie/line__131  File: C:/Users/mara_/Desktop/ssc/incercare_proiect/incercare_proiect.srcs/sim_1/new/tb_filtruMedie.vhd
+Note: Values measured successfully read
+Time: 1050 ns  Iteration: 0  Process: /tb_filtruMedie/line__131  File: C:/Users/mara_/Desktop/ssc/incercare_proiect/incercare_proiect.srcs/sim_1/new/tb_filtruMedie.vhd
+Note: Values measured successfully read
+Time: 1470 ns  Iteration: 0  Process: /tb_filtruMedie/line__131  File: C:/Users/mara_/Desktop/ssc/incercare_proiect/incercare_proiect.srcs/sim_1/new/tb_filtruMedie.vhd
+Note: Values measured successfully read
+Time: 1890 ns  Iteration: 0  Process: /tb_filtruMedie/line__131  File: C:/Users/mara_/Desktop/ssc/incercare_proiect/incercare_proiect.srcs/sim_1/new/tb_filtruMedie.vhd
+Note: Values measured successfully read
+Time: 2310 ns  Iteration: 0  Process: /tb_filtruMedie/line__131  File: C:/Users/mara_/Desktop/ssc/incercare_proiect/incercare_proiect.srcs/sim_1/new/tb_filtruMedie.vhd
+Note: execution finished...
+Time: 3990 ns  Iteration: 0  Process: /tb_filtruMedie/line__218  File: C:/Users/mara_/Desktop/ssc/incercare_proiect/incercare_proiect.srcs/sim_1/new/tb_filtruMedie.vhd
